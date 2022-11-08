@@ -36,7 +36,7 @@ int decrypt(int C, int PR[2]) {
 
 
 int main() {
-	int p, q, e, d, n, phi, pu[2], pr[2]
+	int p, q, e, d, n, phi, pu[2], pr[2];
 	vector<int> v;
 
 	cout << "Enter two large prime numbers : ";
